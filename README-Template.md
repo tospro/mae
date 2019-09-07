@@ -1,3 +1,0 @@
-# Mae
-
-Mae is history knowledgable chatbot that is tailored to enhance dialog and conversations using text or audio (Smart Devices e.g. Phone or Google Home) and integrates into websites, applications or instant messengers (e.g. Facebook Messenger) to get closer to end users. The goal is to deliver an enhanced and unique rich experience using AI and powered by data based on each user's interactions. Using Chatbot backed by AI (constant optimisation) for dialogs to tell stories and serve user's unqiue preferences style of interactions can effectivley promote cultural heritage is an engagement for online audiences.
